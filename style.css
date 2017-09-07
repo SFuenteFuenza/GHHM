@@ -1,0 +1,38 @@
+body {
+  padding-top: 5px;
+  background: url(fondo.jpg) no-repeat fixed center center;
+  background-size: cover;
+}
+h1{
+  font-family: 'Ewert', cursive;
+  text-align: center;
+}
+h3{
+  font-family: 'Fauna One', serif;
+  color: black;
+  font-weight: bold;
+}
+
+p.destacado {
+  color: #6F1A50;
+  margin: 20px 0 20px 0;
+  padding: 2px;
+  text-align: justify;
+}
+p{
+  font-family: 'Fauna One', serif;
+  color:#A81D75;
+  font-weight: bold;
+  text-align: justify;
+}
+div.foot{
+  padding-top: 100px;
+  
+}
+p.foot{
+  color: #994A07;
+}
+p.bootstrap{
+  text-align: right;
+  color: #4114C6
+}
